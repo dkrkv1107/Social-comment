@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15ee8fd4.chunk.css",
+    "main.js": "/static/js/main.744c6915.chunk.js",
+    "main.js.map": "/static/js/main.744c6915.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f5b67376.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f5b67376.js.map",
+    "static/css/2.4be38407.chunk.css": "/static/css/2.4be38407.chunk.css",
+    "static/js/2.85e3b9e2.chunk.js": "/static/js/2.85e3b9e2.chunk.js",
+    "static/js/2.85e3b9e2.chunk.js.map": "/static/js/2.85e3b9e2.chunk.js.map",
+    "static/js/3.63bea0d9.chunk.js": "/static/js/3.63bea0d9.chunk.js",
+    "static/js/3.63bea0d9.chunk.js.map": "/static/js/3.63bea0d9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.15ee8fd4.chunk.css.map": "/static/css/main.15ee8fd4.chunk.css.map",
+    "static/js/2.85e3b9e2.chunk.js.LICENSE.txt": "/static/js/2.85e3b9e2.chunk.js.LICENSE.txt",
+    "static/media/amazon-logo.cf76d4d2.png": "/static/media/amazon-logo.cf76d4d2.png",
+    "static/media/google-logo.00f275fc.png": "/static/media/google-logo.00f275fc.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/logo1.b3f98675.png": "/static/media/logo1.b3f98675.png",
+    "static/media/skrill-logo.93e8a548.png": "/static/media/skrill-logo.93e8a548.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5b67376.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.85e3b9e2.chunk.js",
+    "static/css/main.15ee8fd4.chunk.css",
+    "static/js/main.744c6915.chunk.js"
+  ]
+}
