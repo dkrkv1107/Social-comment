@@ -1,0 +1,76 @@
+.vector-image {
+  display: flex;
+  justify-content: flex-end;
+}
+h1 {
+  font-size: 4.7vw;
+  margin-top: 20px;
+}
+.button-main {
+  background-color: blue;
+  color: white;
+}
+.button-maintwo {
+  background-color: white;
+  border-color: white;
+}
+.button-maintwo:hover {
+  background-color: gray;
+}
+.video {
+  padding-right: 5px;
+}
+@media screen and (min-width: 1100px) {
+  .first-info {
+    margin-top: 55px;
+  }
+}
+@media screen and (max-width: 800px) {
+  svg {
+    display: none;
+  }
+  .vector-image {
+    justify-content: center;
+  }
+  .main-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .footer {
+    margin-left: 0;
+    justify-content: center;
+    width: 105vw;
+  }
+  .first-info {
+    margin-top: 65px;
+  }
+}
+
+@media only screen and (min-width: 1500px) {
+  .main-info {
+    margin-right: 14vw;
+  }
+  .footer {
+    margin-left: 0;
+    justify-content: center;
+  }
+}
+#first-slide {
+  animation: first-one 1s ease-in;
+}
+@keyframes first-one {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
+#second-slide {
+  animation: first-one 0.5s ease-in;
+}
+#third-slide {
+  animation: first-one 0.7s ease-in;
+}
